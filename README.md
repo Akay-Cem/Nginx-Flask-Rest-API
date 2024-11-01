@@ -13,5 +13,6 @@ This repository contains the `docker-compose.yml` file to set up a Flask, Nginx,
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/my_app_stack.git
+   git clone https://github.com/Akay-Cem/Nginx-Flask-Rest-API.git
    cd my_app_stack
+
